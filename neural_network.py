@@ -1,9 +1,9 @@
 from more_itertools import pairwise
 import numpy as np
-from nose import tools as nt
-from sklearn.datasets import load_digits
-from sklearn import preprocessing
-from sklearn.model_selection import train_test_split
+from nose import tools as nt                         # for testing
+from sklearn.datasets import load_digits             # for testing
+from sklearn import preprocessing                    # for testing
+from sklearn.model_selection import train_test_split # for testing
 import matplotlib.pyplot as plt
 
 class Sigmoid:
