@@ -3,7 +3,7 @@ This is my submission for the final project of phy328 Advanced Programming in Py
 
 neural_network.py contains my neural network module and tests.
 some of the tests were originally written by my professor.
-I copy and pasted them, then modified them slightly to fit my code.
+With his permission, I copy and pasted them, then modified them slightly to fit my code.
 
 
 solutions.ipynb contains preprocessing and the training iterations for the neural network.
